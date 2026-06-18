@@ -1,4 +1,3 @@
-# Hi, I'm Shay 👋
 
 ## 🛡️ Cybersecurity Engineer | VAPT | SIEM | Cloud Security | Threat Hunter
 
@@ -36,8 +35,3 @@ I work across offensive and defensive security, focusing on:
 - Security Automation Scripts
 - VAPT Methodologies
 
----
-
-## 📫 Connect
-
-LinkedIn: www.linkedin.com/in/anoshaymujtaba
