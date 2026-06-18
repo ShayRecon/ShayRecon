@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=700&lines=Cybersecurity+Engineer;VAPT+Specialist;SIEM+Engineer;Cloud+Security+Learner" />
+
 # Hi, I'm Shay 👋
 
 ## 🛡️ Cybersecurity Engineer | VAPT | SIEM | Cloud Security | Threat Hunter
