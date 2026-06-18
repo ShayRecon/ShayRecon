@@ -1,5 +1,5 @@
 
-## 🛡️ Cybersecurity Engineer | VAPT | SIEM | Cloud Security | Threat Hunter
+##  Cybersecurity Engineer | VAPT | SIEM | Cloud Security | Threat Hunter
 
 I work across offensive and defensive security, focusing on:
 - Web & API Security Testing
@@ -11,7 +11,7 @@ I work across offensive and defensive security, focusing on:
 
 ---
 
-## ⚙️ Skills & Tools
+##  Skills & Tools
 
 - Burp Suite, Nessus, Nmap
 - Wazuh, Splunk, Rapid7
@@ -22,13 +22,13 @@ I work across offensive and defensive security, focusing on:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Shay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayRecon&show_icons=true)
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 - Detection Engineering
 - Cloud Security
