@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Shay 👋
 
-<!--
-**ShayRecon/ShayRecon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cybersecurity Engineer | VAPT | SIEM | Cloud Security | Threat Hunter
 
-Here are some ideas to get you started:
+I work across offensive and defensive security, focusing on:
+- Web & API Security Testing
+- SIEM & Detection Engineering
+- Threat Hunting
+- Cloud Security
+- Vulnerability Assessment & Penetration Testing
+- ISO 27001 / PCI-DSS exposure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Skills & Tools
+
+- Burp Suite, Nessus, Nmap
+- Wazuh, Splunk, Rapid7
+- AWS Security
+- Python, SQL, Bash
+- Semgrep, OWASP ZAP
+
+
+---
+
+## 📊 GitHub Stats
+
+![Shay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayRecon&show_icons=true)
+
+---
+
+## 🚀 Current Focus
+
+- Detection Engineering
+- Cloud Security
+- Security Automation Scripts
+- VAPT Methodologies
+
+---
+
+## 📫 Connect
+
+LinkedIn: www.linkedin.com/in/anoshaymujtaba
