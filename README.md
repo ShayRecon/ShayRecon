@@ -20,13 +20,6 @@ I work across offensive and defensive security, focusing on:
 - Semgrep, OWASP ZAP
 
 
----
-
-##  GitHub Stats
-
-![Shay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayRecon&show_icons=true)
-
----
 
 ##  Current Focus
 
